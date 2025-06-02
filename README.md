@@ -8,7 +8,7 @@ This codebase builds upon the TypiClust project, so the software dependencies ar
 
 Below are the specific packages and versions required:
 
-black==19.3b0
+black==19.3b0 \\
 flake8==3.8.4
 isort==4.3.21
 matplotlib==3.3.4
