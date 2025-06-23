@@ -203,7 +203,5 @@ python train_al.py \
 
 ---
 
-### Happy experimenting! 🎉
-
 If you find issues or have questions, feel free to open an issue or reach out.
 
